@@ -5,7 +5,7 @@
 #   puts "Squawk!"
  
 # end
-def parrot(default = "Pretty bird!")
+def parrot(default)
   phrase = "Squawk!"
   puts phrase
   return phrase
